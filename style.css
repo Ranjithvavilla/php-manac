@@ -1,0 +1,19 @@
+body{
+  background-color: #1A5276;
+  color: white;
+  border: 40px solid #76D7C4;
+  margin: 0px;
+}
+h1{
+  color:#D68910;
+}
+ h2{
+   color:#28B463;
+ }
+ p{
+   padding-left: 10%;
+   padding-right: 10%;
+ }
+#sub{
+  background-color:#D68910;
+}
